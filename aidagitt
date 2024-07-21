@@ -12,6 +12,11 @@ sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.
 rm "go$ver.linux-amd64.tar.gz"
 echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profilee
 source $HOME/.bash_profile
+
+
+
+
+4
 3
 2
 1
