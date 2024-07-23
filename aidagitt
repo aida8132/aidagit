@@ -14,7 +14,7 @@ echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profilee
 source $HOME/.bash_profile
 
 
-
+6
 5
 4
 3
