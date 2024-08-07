@@ -13,7 +13,7 @@ rm "go$ver.linux-amd64.tar.gz"
 echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profilee
 source $HOME/.bash_profile
 
-7    14
+7    14   21
 6    13   20
 5    12   19
 4    11   18
