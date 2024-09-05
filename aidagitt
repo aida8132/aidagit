@@ -19,7 +19,7 @@ source $HOME/.bash_profile
 4    11   18   25   32    39    50
 3    10   17   24   31    38    49
 2    9    16   23   30    37    48
-1    8    15   22   29    36    47
+1    8    15   22   29    36    47    54
 cd $HOME
 rm -rf celestia-app
 git clone https://github.com/celestiaorg/celestia-app.git
