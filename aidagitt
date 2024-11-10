@@ -21,7 +21,7 @@ source $HOME/.bash_profile
 2    9    16   23   30    37    48    55    62   69    76    83    90
 1    8    15   22   29    36    47    54    61   68    75    82    89
 cd $HOME
-rm -rf celestia-app
+rm -rf celestia-appp
 git clone https://github.com/celestiaorg/celestia-app.git  
 cd celestia-app
 git checkout v0.6.0
