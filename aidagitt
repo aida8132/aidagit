@@ -34,7 +34,7 @@ celestia-appd version
 git clone https://github.com/celestiaorg/networ
 
 -------------------------------
-cd $HOMEE
+cd $HOMEEg
 rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
 
