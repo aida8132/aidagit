@@ -10,7 +10,7 @@ wget "https://golang.org/dl/go$ver.linux-amd.tar
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.abyv
 rm "go$ver.linux-amd64.tar.gz"m
-echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profilee
+echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profileek
 source $HOME/.bash_profilee l
 
 7    14   21   28   35    42    53    60    67   74    81    88    104
