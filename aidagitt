@@ -42,7 +42,7 @@ git clone https://github.com/celestiaorg/networks.git
 CELESTIA_NODENAME="aida" 
 CELESTIA_WALLET="aida29"
 CELESTIA_CHAIN="mamaki"
-1   11
+1   11  22
 2   12
 3   13 
 4   14
