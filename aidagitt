@@ -11,7 +11,7 @@ sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.abyv
 rm "go$ver.linux-amd64.tar.gz"m
 echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profileekNHN
-source $HOME/.bash_profilee l
+source $HOME/.bash_profilee l1
 
 7    14   21   28   35    42    53    60    67   74    81    88    104
 6    13   20   27   34    41    52    59    66   73    80    87    103
