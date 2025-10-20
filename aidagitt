@@ -20,7 +20,7 @@ source $HOME/.bash_profilee l12
 3    10   17   24   31    38    49    56    63   70    77    84    100
 2    9    16   23   30    37    48    55    62   69    76    83    90
 1    8    15   22   29    36    47    54    61   68    75    82    89
-cd $HOME
+cd $HOME h
 rm -rf celestia-apppp
 git clone https://github.com/celestiaorg/celestia-app.git  hn
 cd celestia-apphj
