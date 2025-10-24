@@ -25,7 +25,7 @@ rm -rf celestia-apppp
 git clone https://github.com/celestiaorg/celestia-app.git  hn
 cd celestia-apphj
 git checkout v0.6.012
-make install 11
+make install 112
 
 -------------------------------------------------
 celestia-appd version
