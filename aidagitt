@@ -19,6 +19,7 @@ source $HOME/.bash_profilee l12
 4    11   18   25   32    39    50    57    64   71    78    85    101
 3    10   17   24   31    38    49    56    63   70    77    84    100
 2    9    16   23   30    37    48    55    62   69    76    83    90
+91
 
 cd $HOME h
 rm -rf celestia-apppp
